@@ -1,6 +1,6 @@
 {
   "name": "flux-easy-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Webpack loader for flux-easy",
   "main": "flux-easy-loader",
   "scripts": {
