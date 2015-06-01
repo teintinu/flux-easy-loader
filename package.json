@@ -1,0 +1,33 @@
+{
+  "name": "flux-easy-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for flux-easy",
+  "main": "flux-easy-loader",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thr0w/flux-easy-loader.git"
+  },
+  "keywords": [
+    "flux",
+    "react",
+    "webpack",
+    "flux-easy"
+  ],
+  "author": "thr0w",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/thr0w/flux-easy-loader/issues"
+  },
+  "homepage": "https://github.com/thr0w/flux-easy-loader",
+  "dependencies": {
+    "flux-easy": "0.0.1",
+    "loader-utils": "^0.2.9"
+  },
+  "devDependencies": {
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.9.10"
+  }
+}
