@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/thr0w/flux-easy-loader",
   "dependencies": {
-    "flux-easy": "0.0.1",
+    "flux-easy": "0.0.2",
     "loader-utils": "^0.2.9"
   },
   "devDependencies": {
