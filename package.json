@@ -1,6 +1,6 @@
 {
   "name": "flux-easy-loader",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Webpack loader for flux-easy",
   "main": "flux-easy-loader",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/thr0w/flux-easy-loader",
   "dependencies": {
-    "flux-easy": "0.0.2",
+    "flux-easy": "0.0.4",
     "loader-utils": "^0.2.9"
   },
   "devDependencies": {
